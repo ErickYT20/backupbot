@@ -1,0 +1,28 @@
+{
+  "name": "Backup-Bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Miku Nakano",
+  "license": "MIT",
+  "dependencies": {
+    "discord-backup": "^2.3.0",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1"
+  },
+  "description": "bot is coded by Miku Nakano",
+  "devDependencies": {
+    "node": "^17.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Androz2091/backups-bot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Androz2091/backups-bot/issues"
+  },
+  "homepage": "https://github.com/Androz2091/backups-bot#readme"
+}
